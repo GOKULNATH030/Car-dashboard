@@ -29,5 +29,5 @@ Our Qt-driven car infotainment system seamlessly integrates a range of features 
    * [Rithick]
    * [Gokulnath G]
 
-##License
+## License
   This project is covered by the [MIT License]()
