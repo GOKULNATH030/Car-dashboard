@@ -7,21 +7,21 @@ keep you informed, entertained, and connected on the road.
 ## Key Features:
 ### Features in Cluster
 
-# 1.Features in Dashboard
+### 1.Features in Dashboard
    Maps & Navigation
-        Music system
-        Messaging app
-        Entertainment app
-        Customer and service support
+   Music system
+   Messaging app
+   Entertainment app
+   Customer and service support
 
 #### 2.Features in Cluster
-        Fuel Guage
-        Speedometer
-        Engine temp indicator
-        RPM Gauge
-        Gear indicator
+   Fuel Guage
+   Speedometer
+   Engine temp indicator
+   RPM Gauge
+   Gear indicator
 
 #### 3.Additional features
-        Child Lock
-        Temperature Indicator
+   Child Lock
+   Temperature Indicator
     
