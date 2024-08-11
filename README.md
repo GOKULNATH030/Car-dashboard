@@ -30,4 +30,4 @@ Our Qt-driven car infotainment system seamlessly integrates a range of features 
    * [Gokulnath G]
 
 ## License
-  This project is covered by the [MIT License]()
+  This project is covered by the [MIT License](https://github.com/GOKULNATH030/Car-dashboard/blob/main/LICENSE)
