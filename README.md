@@ -3,7 +3,7 @@ Our state-of-the-art car infotainment system, developed with Qt, is designed to 
 keep you informed, entertained, and connected on the road.
 
 ## Table of Content
-* Key Features [Key Features]
+* [Key Features](Key Features)
 
 ## Key Features:
 
