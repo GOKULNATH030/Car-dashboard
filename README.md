@@ -8,8 +8,9 @@ keep you informed, entertained, and connected on the road.
 ### Features in Cluster
 
 ### 1.Features in Dashboard
-   >   Maps & Navigation
-   >   Music system
+   * Maps & Navigation
+   *
+Music system
    >   Messaging app
    >   Entertainment app
    >   Customer and service support
