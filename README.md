@@ -7,22 +7,22 @@ Our Qt-driven car infotainment system seamlessly integrates a range of features 
 ## Key Features:
 
 #### 1.Features in Dashboard
-   * Maps & Navigation
-   * Music system
-   * Messaging app
-   * Entertainment app
-   * Customer and service support
+   * Maps & Navigation 🗺
+   * Music system 🎵
+   * Messaging app ✉
+   * Entertainment app 📺
+   * Customer and service support 👨‍🔧
 
 #### 2.Features in Cluster
-   * Fuel Guage
-   * Speedometer
-   * Engine temp indicator
-   * RPM Gauge
-   * Gear indicator
+   * Fuel Guage ⛽
+   * Speedometer 🚀
+   * Engine temp indicator 🌡
+   * RPM Gauge 💨
+   * Gear indicator ⚙
 
 #### 3.Additional features
-   * Child Lock
-   * Temperature Indicator
+   * Child Lock 🔒
+   * Temperature Indicator 🌡
      
 ## Developers
    * [Anushya Varshini]
@@ -30,4 +30,4 @@ Our Qt-driven car infotainment system seamlessly integrates a range of features 
    * [Gokulnath G]
 
 ## License
-  This project is covered by the [MIT License](https://github.com/GOKULNATH030/Car-dashboard/blob/main/LICENSE)
+  📌This project is covered by the [MIT License](https://github.com/GOKULNATH030/Car-dashboard/blob/main/LICENSE)
