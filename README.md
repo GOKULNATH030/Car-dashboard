@@ -7,8 +7,8 @@ keep you informed, entertained, and connected on the road.
 ## Key Features:
 ### Features in Cluster
 
-#### 1.Features in Dashboard
-        Maps & Navigation
+# 1.Features in Dashboard
+   Maps & Navigation
         Music system
         Messaging app
         Entertainment app
