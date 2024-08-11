@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<RCC>
+    <qresource prefix="/">
+        <file alias="../UI/ASSET/lock_icon.png">../UI/ASSET/lock_icon.png</file>
+        <file alias="../UI/ASSET/unlock_icon.png">../UI/ASSET/unlock_icon.png</file>
+        <file alias="../UI/ASSET/red.jpg">../UI/ASSET/red.jpg</file>
+        <file alias="../UI/ASSET/carlock.jpg">../UI/ASSET/carlock.jpg</file>
+        <file alias="../UI/ASSET/search.jpg">../UI/ASSET/search.jpg</file>
+        <file alias="../UI/ASSET/audio icon.png">../UI/ASSET/audio icon.png</file>
+        <file alias="../UI/ASSET/images mm.png">../UI/ASSET/images mm.png</file>
+        <file alias="../UI/ASSET/pngwing.com.png">../UI/ASSET/pngwing.com.png</file>
+        <file alias="../UI/ASSET/Sssss.png">../UI/ASSET/Sssss.png</file>
+        <file alias="../UI/ASSET/Song.png">../UI/ASSET/Song.png</file>
+        <file alias="../UI/ASSET/mmuussiicc.png">../UI/ASSET/mmuussiicc.png</file>
+        <file alias="../UI/ASSET/service.png">../UI/ASSET/service.png</file>
+        <file alias="../UI/ASSET/youtube.png">../UI/ASSET/youtube.png</file>
+    </qresource>
+</RCC>
